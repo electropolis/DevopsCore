@@ -183,5 +183,4 @@
         </plugins>
       </build>
     </profile>
-  </profiles>
-</project>
+  </profiles>  
